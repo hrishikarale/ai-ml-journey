@@ -10,6 +10,6 @@ class Solution:
 
         return prefix
 
-# if __name__ == "__main__":
+if __name__ == "__main__":
 sol = Solution()
 print(sol.longestCommonPrefix(["cat", "car", "candle"]))
